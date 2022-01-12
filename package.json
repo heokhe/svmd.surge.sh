@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "idb": "^4.0.4",
-    "markdown-it": "^10.0.0",
+    "markdown-it": "^12.3.2",
     "marked": "^0.7.0",
     "svelte-loadable": "^1.3.0",
     "svmd": "^0.3.1",
